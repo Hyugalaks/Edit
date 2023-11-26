@@ -177,7 +177,7 @@ await Maria.sendMessage(from, {text: Ayushlod[i], edit: key });
         }
         
         if (autobio) {
-            Maria.updateProfileStatus(`ɪ ᴀᴍ ʟᴀɴxᴢʙᴏᴛ, ɪɴᴄ. 🚀 ${runtime(process.uptime())} `).catch(_ => _)
+            Maria.updateProfileStatus(`ɪ ᴀᴍ ʟᴀɴxᴢʙᴏᴛ, 🚀 ${runtime(process.uptime())} `).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
             return Maria.updateBlockStatus(m.sender, 'block')
