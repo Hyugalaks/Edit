@@ -1274,7 +1274,7 @@ var inputnumber = text.split(" ")[0]
 ┌───〈 *ɢᴇɴᴇʀᴀʟ* 〉───
 │ ◦ hi
 │ ◦ ️info
-│ ◦ upport
+│ ◦ support
 │ ◦ rules
 │ ◦ help
 │ ◦ runtime
